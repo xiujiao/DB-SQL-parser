@@ -1,0 +1,2 @@
+CREATE TABLE R (A int, B int) FROM FILE 'test/r.dat' USING CSV;
+SELECT 1;
